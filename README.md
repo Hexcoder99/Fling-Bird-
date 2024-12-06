@@ -1,1 +1,1 @@
-# Space Hunter
+# Simple Gun Shooter Game Scoring System
